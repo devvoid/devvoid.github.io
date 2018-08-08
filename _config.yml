@@ -24,7 +24,7 @@ github_username:  devvoid
 
 # Build settings
 markdown: kramdown
-theme: jekyll-themes-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
